@@ -4,6 +4,7 @@ html, body {
   height: 100%;
   font-family: 'Segoe UI', sans-serif;
   background-color: #fdeaff;
+  cursor: url(cursor2.cur), auto;
 }
 
 .menu {
