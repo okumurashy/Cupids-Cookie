@@ -5,6 +5,7 @@ html, body {
   font-family: 'Segoe UI', sans-serif;
   background-color: #fdeaff;
   cursor: url(cursor2.cur), auto;
+  scroll-behavior: smooth; 
 }
 
 .menu {
