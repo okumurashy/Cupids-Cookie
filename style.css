@@ -6,10 +6,6 @@ body {
     cursor: url(cursor2.cur), auto;
 }
 
-html {
-    scroll-behavior: smooth;
-}
-
 .menu {
     color: #ac0fac;
     position: fixed;
